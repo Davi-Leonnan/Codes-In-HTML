@@ -1,0 +1,31 @@
+div {
+    border: solid 5px darkblue;
+    text-align: center;
+    background-color: rgb(68, 68, 110);
+    margin: 20px;
+}
+
+.jill {
+    color:rgb(94, 94, 179)
+}
+
+.chris {
+    color:rgb(22, 119, 27)
+}
+
+.barry {
+    color:rgb(161, 23, 46)
+}
+
+.wesker {
+    color:rgb(28, 28, 182)
+}
+
+.rebecca {
+    color:rgb(59, 180, 66)
+}
+
+.brad {
+    color:rgb(197, 238, 15)
+}
+
