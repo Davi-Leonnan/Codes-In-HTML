@@ -1,0 +1,21 @@
+.color {
+    color: blue;
+}
+
+.italic{
+    font-style: italic;
+
+}
+
+.bold {
+    font-weight: bold;
+
+}
+
+.color-02 {
+    color: red
+}
+
+.border {
+    border: solid 3px rgb(94, 8, 8);
+}
